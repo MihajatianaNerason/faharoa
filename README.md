@@ -1,0 +1,2 @@
+# faharoa
+setup git
